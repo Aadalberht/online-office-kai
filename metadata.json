@@ -1,0 +1,6 @@
+{
+  "name": "Онлайн-офис",
+  "description": "Единая система управления проектами, задачами, командной коммуникацией, календарем, базой знаний, аналитикой и ИИ-помощником.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
